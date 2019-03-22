@@ -1,4 +1,4 @@
-<html>
+
 <h1><a name="section_1">Brief documentation </a></h1>
 
 <p>This code reproduces several figures of Mejias et al., Science Advances 2, e1601335, 2016.
@@ -36,4 +36,3 @@ Figure 4ef:<p/>
 Figure 5:<p/>
 <img src="./fig5/fig5.png" alt="fig 5" width="650"><p/>
 
-</html>
